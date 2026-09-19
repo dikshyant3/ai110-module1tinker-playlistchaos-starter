@@ -183,6 +183,7 @@ def default_songs():
     ]
 
 
+
 def profile_sidebar():
     """Render and update the user profile."""
     st.sidebar.header("Mood profile")
